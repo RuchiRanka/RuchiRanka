@@ -2,5 +2,5 @@
 ### [Summary description]
 
 ## Skills
-![ReactJS][react-logo.png]
+![ReactJS](react-logo.png)
 
