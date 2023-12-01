@@ -13,9 +13,8 @@
 
 [![React][React.js]][React-url]
 [![HTML][HTML5]][HTML-url]
-[![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![React][React.js]][React-url]
-[![React][React.js]][React-url]
+[![CSS][CSS3]][CSS-url]
+[![Java][Java]][Java-url]
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -32,5 +31,7 @@
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[HTML5]: [![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
+[HTML5]: https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5
+[HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[CSS3]: https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3
+[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
