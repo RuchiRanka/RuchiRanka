@@ -15,6 +15,7 @@
 [![HTML][HTML5]][HTML-url]
 [![CSS][CSS3]][CSS-url]
 [![Java][Java]][Java-url]
+[![CPP][CPP]][CPP-url]
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -33,7 +34,9 @@
 [React-url]: https://reactjs.org/
 [HTML5]: https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[CSS3]: https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3
+[CSS3]: https://img.shields.io/badge/CSS-lightblue?style=for-the-badge&logo=css3
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[Java]: https://img.shields.io/badge/Java-darkblue?style=for-the-badge&logo=java
+[Java]: https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java
 [Java-url]: https://www.java.com/
+[CPP]: https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cpp
+[CPP-url]: https://isocpp.org/
