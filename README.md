@@ -2,5 +2,5 @@
 ### [Summary description]
 
 ## Skills
-![ReactJS](photo.jpg)
+![[ReactJS](photo.jpg)]
 
