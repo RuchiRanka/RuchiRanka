@@ -2,5 +2,5 @@
 ### [Summary description]
 
 ## Skills
-![LALAL](/photo.jpg)
+![LALAL](photo.jpg)
 
