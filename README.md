@@ -34,7 +34,7 @@
 [React-url]: https://reactjs.org/
 [HTML5]: https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[CSS3]: https://img.shields.io/badge/CSS-azureblue?style=for-the-badge&logo=css3
+[CSS3]: https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [Java]: https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java
 [Java-url]: https://www.java.com/
