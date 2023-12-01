@@ -38,5 +38,5 @@
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [Java]: https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java
 [Java-url]: https://www.java.com/
-[CPP]: https://img.shields.io/badge/CPP-4183c4?style=for-the-badge&logo=cpp
+[CPP]: https://img.shields.io/badge/CPP-4183c4?style=for-the-badge&logo=c%2B%2B
 [CPP-url]: https://isocpp.org/
