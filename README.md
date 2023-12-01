@@ -2,5 +2,5 @@
 ### [Summary description]
 
 ## Skills
-<img src="RuchiRanka/react-logo.png">
+![ReactJS][react-logo.png]
 
