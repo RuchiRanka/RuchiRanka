@@ -34,11 +34,11 @@
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[HTML5]: https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5
+[HTML5]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [CSS3]: https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css3
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[Java]: https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java
+[Java]: https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java
 [Java-url]: https://www.java.com/
 [CPP]: https://img.shields.io/badge/CPP-20232A?style=for-the-badge&logo=c%2B%2B
 [CPP-url]: https://isocpp.org/
