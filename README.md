@@ -17,7 +17,7 @@
 [![Java][Java]][Java-url]
 [![CPP][CPP]][CPP-url]
 [![MySQL][MySQL]][MySQL-url]
-[![JS][JS]][JS -url]
+[![JS][JS]][JS-url]
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
