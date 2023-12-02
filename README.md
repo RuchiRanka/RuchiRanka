@@ -1,5 +1,6 @@
-# Hi there 👋, I am Ruchi Ranka!
-### [Summary description]
+# Hi there 👋!
+### I am Ruchi Ranka, a fourth-year B.Tech Computer Science Engineering student passionate about coding and web development. With a knack for problem-solving and a love for competitive coding, I've honed my skills through various contests, projects, and internships.
+### And I'm very excited and looking forward to actively contributing to the amazing open-source community.
 
 ## Skills
 
