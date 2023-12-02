@@ -10,14 +10,14 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-[![React][React.js]][React-url]
-[![HTML][HTML5]][HTML-url]
-[![CSS][CSS3]][CSS-url]
 [![Java][Java]][Java-url]
 [![CPP][CPP]][CPP-url]
-[![MySQL][MySQL]][MySQL-url]
+[![HTML][HTML5]][HTML-url]
+[![CSS][CSS3]][CSS-url]
 [![JS][JS]][JS-url]
+[![React][React.js]][React-url]
+[![MySQL][MySQL]][MySQL-url]
+
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
