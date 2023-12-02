@@ -25,7 +25,7 @@
 
 [email-shield]: https://img.shields.io/badge/Email-white.svg?style=for-the-badge&logo=email
 [email-url]: https://linkedin.com/in/othneildrew
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-white.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-white.svg?style=for-the-badge&logo=linkedin
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [leetcode-shield]: https://img.shields.io/badge/LeetCode-white.svg?style=for-the-badge&logo=leetcode
 [leetcode-url]: https://leetcode.com/ruch21/
