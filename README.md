@@ -33,13 +33,13 @@
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[HTML5]: https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5
+[HTML5]: https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[CSS3]: https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3
+[CSS3]: https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [Java]: https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java
 [Java-url]: https://www.java.com/
-[CPP]: https://img.shields.io/badge/CPP-4183c4?style=for-the-badge&logo=c%2B%2B
+[CPP]: https://img.shields.io/badge/CPP-black?style=for-the-badge&logo=c%2B%2B
 [CPP-url]: https://isocpp.org/
-[MySQL]: https://img.shields.io/badge/MySQL-0074A3?style=for-the-badge&logo=mysql
+[MySQL]: https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql
 [MySQL-url]: https://dev.mysql.com/doc/
