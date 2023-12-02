@@ -22,6 +22,7 @@
 [![Email][email-shield]][email-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![LeetCode][leetcode-shield]][leetcode-url]
+[![Medium][medium-shield]][medium-url]
 
 
 [email-shield]: https://img.shields.io/badge/Email-4F4A45.svg?style=for-the-badge&logo=gmail
@@ -30,6 +31,8 @@
 [linkedin-url]: https://www.linkedin.com/in/ruchi-ranka/
 [leetcode-shield]: https://img.shields.io/badge/LeetCode-4F4A45.svg?style=for-the-badge&logo=leetcode
 [leetcode-url]: https://leetcode.com/ruch21/
+[medium-shield]: https://img.shields.io/badge/Medium-4F4A45.svg?style=for-the-badge&logo=medium
+[medium-url]: https://medium.com/@ruchiranka2103
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [HTML5]: https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5
