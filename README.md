@@ -1,4 +1,4 @@
-# Hi there 👋, I am Ruchi Ranka!
+ # Hi there 👋, I am Ruchi Ranka!
 ### [Summary description]
 
 ## Skills
@@ -16,6 +16,7 @@
 [![CSS][CSS3]][CSS-url]
 [![Java][Java]][Java-url]
 [![CPP][CPP]][CPP-url]
+[![MySQL][MySQL]][MySQL-url]
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -40,3 +41,5 @@
 [Java-url]: https://www.java.com/
 [CPP]: https://img.shields.io/badge/CPP-4183c4?style=for-the-badge&logo=c%2B%2B
 [CPP-url]: https://isocpp.org/
+[MySQL]: https://img.shields.io/badge/CPP-4183c4?style=for-the-badge&logo=mysql
+[MySQL-url]: https://dev.mysql.com/doc/
