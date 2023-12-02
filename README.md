@@ -18,9 +18,10 @@
 [![React][React.js]][React-url]
 [![MySQL][MySQL]][MySQL-url]
 [![PostMan][Postman]][Postman-url]
-
 [![Springboot][Springboot]][Springboot-url]
 [![Rest][Rest]][Rest-url]
+[![BitBucket][BitBucket]][BitBucket-url]
+[![JIRA][JIRA]][JIRA-url]
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -51,7 +52,11 @@
 [JS-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Postman]: https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman
 [Postman-url]: https://www.postman.com/
-[Springboot]: https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=spring
+[Springboot]: https://img.shields.io/badge/Springboot-20232A?style=for-the-badge&logo=spring
 [Springboot-url]: https://spring.io/projects/spring-boot
-[Rest]: https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo
+[Rest]: https://img.shields.io/badge/Rest-20232A?style=for-the-badge
 [Rest-url]: https://en.wikipedia.org/wiki/Representational_state_transfer
+[BitBucket]: https://img.shields.io/badge/Rest-20232A?style=for-the-badge&logo=bitbucket
+[BitBucket-url]: https://bitbucket.org/
+[JIRA]: https://img.shields.io/badge/Rest-20232A?style=for-the-badge&logo=jira
+[JIRA-url]: https://www.atlassian.com/software/jira
