@@ -26,7 +26,7 @@
 
 [email-shield]: https://img.shields.io/badge/Email-4F4A45.svg?style=for-the-badge&logo=gmail
 [email-url]: mailto:ruchiranka2103@gmail.com
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-4F4A45.svg?style=for-the-badge&logo=linkedin
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-4F4A45.svg?style=for-the-badge&logo=linkedin&logoColor=blue
 [linkedin-url]: https://www.linkedin.com/in/ruchi-ranka/
 [leetcode-shield]: https://img.shields.io/badge/LeetCode-4F4A45.svg?style=for-the-badge&logo=leetcode
 [leetcode-url]: https://leetcode.com/ruch21/
