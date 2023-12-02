@@ -23,11 +23,11 @@
 [![LeetCode][leetcode-shield]][leetcode-url]
 
 
-[email-shield]: https://img.shields.io/badge/Email-white.svg?style=for-the-badge&logo=email
-[email-url]: https://linkedin.com/in/othneildrew
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-white.svg?style=for-the-badge&logo=linkedin
+[email-shield]: https://img.shields.io/badge/Email-FAEED1.svg?style=for-the-badge&logo=gmail
+[email-url]: mailto:ruchiranka2103@gmail.com
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-9AD0C2.svg?style=for-the-badge&logo=linkedin
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[leetcode-shield]: https://img.shields.io/badge/LeetCode-white.svg?style=for-the-badge&logo=leetcode
+[leetcode-shield]: https://img.shields.io/badge/LeetCode-9AD0C2.svg?style=for-the-badge&logo=leetcode
 [leetcode-url]: https://leetcode.com/ruch21/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
