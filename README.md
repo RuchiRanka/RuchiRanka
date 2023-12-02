@@ -3,7 +3,7 @@
 #### I love learning about new tools, technologies and frameworks, always eager to discover more. Besides coding, I enjoy working with others, sharing ideas, and creating a space where we all learn and grow together in the tech world.
 #### And I'm looking forward to actively contributing to the amazing open-source community.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RuchiRanka&theme=dark)](https://git.io/streak-stats)
 
 ## Skills
 
