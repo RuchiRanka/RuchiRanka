@@ -45,8 +45,10 @@
 [JS-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Postman]: https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman
 [Postman-url]: https://www.postman.com/
-[Springboot]: https://img.shields.io/badge/Springboot-API-20232A-232D3F?style=for-the-badge&logo=spring
+[Springboot]: https://img.shields.io/badge/Springboot-20232A?style=for-the-badge&logo=spring
 [Springboot-url]: https://spring.io/projects/spring-boot
+[API]: https://img.shields.io/badge/API-20232A?style=for-the-badge
+[API-url]: https://en.wikipedia.org/wiki/Application_programming_interface
 [Rest]: https://img.shields.io/badge/Rest-20232A?style=for-the-badge
 [Rest-url]: https://en.wikipedia.org/wiki/Representational_state_transfer
 [BitBucket]: https://img.shields.io/badge/BitBucket-20232A?style=for-the-badge&logo=bitbucket
