@@ -41,5 +41,5 @@
 [Java-url]: https://www.java.com/
 [CPP]: https://img.shields.io/badge/CPP-4183c4?style=for-the-badge&logo=c%2B%2B
 [CPP-url]: https://isocpp.org/
-[MySQL]: https://img.shields.io/badge/CPP-4183c4?style=for-the-badge&logo=mysql
+[MySQL]: https://img.shields.io/badge/MySQL-0074A3?style=for-the-badge&logo=mysql
 [MySQL-url]: https://dev.mysql.com/doc/
