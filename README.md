@@ -5,7 +5,7 @@
 
 ## GitHub Stats 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RuchiRanka&theme=ambient_gradient)](https://streak-stats.demolab.com?user=RuchiRanka&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RuchiRanka&theme=ambient_gradient)](https://streak-stats.demolab.com?user=RuchiRanka&theme=ambient_gradient)
 
 ## Skills
 
