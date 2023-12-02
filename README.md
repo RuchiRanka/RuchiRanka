@@ -3,7 +3,7 @@
 
 ## Skills
 
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url] 
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -17,7 +17,7 @@
 [![JS][JS]][JS-url]
 [![React][React.js]][React-url]
 [![MySQL][MySQL]][MySQL-url]
-
+[![PostMan][Postman]][Postman-url]
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -46,3 +46,5 @@
 [MySQL-url]: https://dev.mysql.com/doc/
 [JS]: https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript
 [JS-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[Postman]: https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman
+[Postman-url]: https://www.postman.com/
