@@ -56,7 +56,7 @@
 [Springboot-url]: https://spring.io/projects/spring-boot
 [Rest]: https://img.shields.io/badge/Rest-20232A?style=for-the-badge
 [Rest-url]: https://en.wikipedia.org/wiki/Representational_state_transfer
-[BitBucket]: https://img.shields.io/badge/Rest-20232A?style=for-the-badge&logo=bitbucket
+[BitBucket]: https://img.shields.io/badge/BitBucket-20232A?style=for-the-badge&logo=bitbucket
 [BitBucket-url]: https://bitbucket.org/
-[JIRA]: https://img.shields.io/badge/Rest-20232A?style=for-the-badge&logo=jira
+[JIRA]: https://img.shields.io/badge/JIRA-20232A?style=for-the-badge&logo=jira
 [JIRA-url]: https://www.atlassian.com/software/jira
