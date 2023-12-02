@@ -5,7 +5,7 @@
 
 ## GitHub Stats 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RuchiRanka&theme=dark)](https://streak-stats.demolab.com?user=RuchiRanka&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RuchiRanka&theme=dark)](https://streak-stats.demolab.com?user=RuchiRanka&theme=radical)
 
 ## Skills
 
