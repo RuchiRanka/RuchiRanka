@@ -5,7 +5,10 @@
 
 ## GitHub Stats 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RuchiRanka&theme=ambient_gradient)](https://streak-stats.demolab.com?user=RuchiRanka&theme=ambient_gradient)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=RuchiRanka&theme=ambient_gradient)](https://streak-stats.demolab.com?user=RuchiRanka&theme=ambient_gradient) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=RuchiRanka&title_color=FAF8F1&text_color=FAF8F1&icon_color=FAF8F1&bg_color=35,159895,1A5F7A,002B5B,000000&show_icons=true)](https://streak-stats.demolab.com?user=RuchiRanka&theme=ambient_gradient)
+
+https://github-readme-stats.vercel.app/api?username=anuraghazra&title_color=FAF8F1&text_color=FAF8F1&icon_color=FAF8F1&bg_color=35,159895,1A5F7A,002B5B,000000&show_icons=true
 
 ## Skills
 
