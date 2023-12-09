@@ -6,7 +6,7 @@
 ## GitHub Stats 
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=RuchiRanka&theme=ambient_gradient)](https://streak-stats.demolab.com?user=RuchiRanka&theme=ambient_gradient) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=RuchiRanka&theme=sunset_gradient)](https://streak-stats.demolab.com?user=RuchiRanka&theme=ambient_gradient)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RuchiRanka&theme=ocean_gradient)](https://streak-stats.demolab.com?user=RuchiRanka&theme=ambient_gradient)
 
 ## Skills
 
